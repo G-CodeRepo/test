@@ -1,1 +1,2 @@
 second file
+this is a change to the second file
