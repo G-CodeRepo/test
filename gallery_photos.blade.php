@@ -122,7 +122,7 @@ Photo Gallery
 <!--
 <div class="row">
 	<div class="col-md-12">
-		List will be shown here
+		List goes here
 	</div>
 
 	<div >
