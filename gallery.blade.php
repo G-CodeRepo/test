@@ -1,7 +1,7 @@
 @extends('layouts.master')
 <!-- site name -->
 @section('site_name')
-photo gallery
+Photo Gallery
 @endsection
 
 <!-- sidebar -->
