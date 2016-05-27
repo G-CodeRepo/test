@@ -1,0 +1,22 @@
+# ignore a file with this name
+tempfile.txt
+
+# ignore any files with these extension
+*.rtf
+*.zip
+
+# ignore any files in a log directory with a log extension
+log/*.log
+
+# ignore any files in a log directory with a log extension
+# and containing numerics from 0-9
+log/*.log.[0-9]
+
+# ignore ALL photoshop files in the assets/photoshop directory
+assets/photoshop/
+
+# ignore ALL video files in the assets/videos directory
+assets/videos/
+
+# do NOT ignore these videos (KEEP TRACK)
+!assets/videos/tour_*.mp4
