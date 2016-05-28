@@ -1,5 +1,6 @@
 # ignore a file with this name
 tempfile.txt
+tempfile2.txt
 
 # ignore any files with these extension
 *.rtf
