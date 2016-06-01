@@ -7,5 +7,6 @@ a new line has been added today
 <div>another impoper div tag</div>
 <div><p id="test">another div yet again</p></div>
 <script>
-document.getElementById("test").innerHTML = "change text";
+var x = document.getElementById("test");
+x.innerHTML = "Hello";
 </script>
