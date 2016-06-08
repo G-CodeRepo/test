@@ -1,2 +1,3 @@
 third file
 this is a change to the third file
+new text added so that we can do a merge without 'fast forward'
