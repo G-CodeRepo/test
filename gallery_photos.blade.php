@@ -4,6 +4,8 @@
 Photo Gallery
 @endsection
 
+<!--to be determined -->
+
 <!-- sidebar -->
 @section('sidebar')
 <!-- this content will be injected into the blade template -->
