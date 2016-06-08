@@ -1,3 +1,2 @@
 third file
 this is a change to the third file
-this text will be merged with the master
