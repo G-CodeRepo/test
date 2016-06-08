@@ -4,7 +4,6 @@
 Photo Gallery
 @endsection
 
-<!--to be determined -->
 
 <!-- sidebar -->
 @section('sidebar')
