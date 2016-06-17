@@ -1,8 +1,8 @@
 <title>a short title</title>
-first file
+<strong>first file</strong>
 this file has been changed
 it comes before all other files....but does it (ton, ton, ton)
-a new line has been added today
+<p>a new line has been added today</p>
 <div>improper div tag</div>
 <div>another impoper div tag</div>
 <div><p id="test">another div yet again</p></div>
