@@ -10,6 +10,8 @@ it comes before all other files....but does it (ton, ton, ton)
 <div>improper div tag</div>
 <div>another impoper div tag</div>
 <div><p id="test">another div yet again</p></div>
+<section>this is a section in HTML5</section>
+
 <script>
 var x = document.getElementById("test");
 x.innerHTML = "Hello";
